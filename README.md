@@ -1,9 +1,9 @@
-### Hi there  👋 Eu Sou O Lucas Santos De Oliveira
+<h2>Olá eu sou o Lucas Oliveira, seja bem vindo(a) ao meu Perfil </h2>
 
 - 🔭 Hoje eu trabalho com Front-End e Analise de dados
 - ⚡ Estou Cursando - Analise e desenvolvimento de sistemas pela uninove.
 - 🌱 Estou Estudando Php
-- 📫 Contate - me no Email: Lucass1997@outlook.com
+- 📫 Contate-me Email: Lucass1997@outlook.com
 - 😄 WhatsApp: (11) 94659 - 7844
 
 <div style="display: inline_block"><br>
